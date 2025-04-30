@@ -1,4 +1,3 @@
-// 👇 Keep all your existing imports
 import "bootstrap/dist/css/bootstrap.css";
 import React, { useEffect, useState } from "react";
 import { ethers, utils } from "ethers";
