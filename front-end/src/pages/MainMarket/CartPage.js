@@ -1,4 +1,3 @@
-// ✅ FULL FIXED CartPage.js - Working Checkout
 
 import React, { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
