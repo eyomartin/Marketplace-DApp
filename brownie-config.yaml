@@ -1,0 +1,23 @@
+dotenv: .env
+
+wallets:
+  from_key: ${PRIVATE_KEY}
+
+dependencies:
+  - smartcontractkit/chainlink-brownie-contracts@0.2.1
+
+compiler:
+  solc:
+    remappings:
+      - "@chainlink=smartcontractkit/chainlink-brownie-contracts@0.2.1"
+
+networks:
+  default: development
+  development:
+    cmd_settings:
+      port: 7545
+    gas_limit: 12000000
+    gas_price: 20000000000
+  ganache-gui:
+    host: http://127.0.0.1:7547
+    chainid: 1337
