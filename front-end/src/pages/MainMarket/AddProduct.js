@@ -98,7 +98,7 @@ function AddProduct() {
     }
   };
 
-  // ganache network is used for testing purposes
+  // ganache netw
   const currentNetwork = networks["1337"];
   const isGoodNet = data.network === currentNetwork;
   const isConnected = data.account !== "";
