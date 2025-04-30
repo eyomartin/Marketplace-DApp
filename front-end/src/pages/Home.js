@@ -1,4 +1,3 @@
-// Updated Home.js with Search Bar above Products
 
 import "bootstrap/dist/css/bootstrap.css";
 import React, { useEffect, useState } from "react";
