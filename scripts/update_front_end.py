@@ -1,6 +1,5 @@
 import json, yaml, os, shutil
 
-# functions to copy smart contract data to the front end
 
 def copy_build_folder():
     copy2frontend("./build", "./front-end/src/artifacts")
