@@ -277,7 +277,7 @@ function ProductPage() {
   <>
     <p>You have been given a feedback of {getBuyerFeedback() || "No feedback yet"} ★</p>
 
-    {/* NEW: Show Tip if available */}
+    {/* Navailable */}
     {(() => {
       const tipKey = `tip-${id}-${data.account}`;
       const tipAmount = localStorage.getItem(tipKey);
