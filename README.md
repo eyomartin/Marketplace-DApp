@@ -4,7 +4,7 @@ This is a full-stack decentralized e-commerce platform built using **Solidity**,
 
 ---
 
-## 🚀 Key Features Implemented
+## Key Features Implemented
 
 ### ✅ Core Functionality
 - Create decentralized **stores** and list **products**
@@ -35,11 +35,9 @@ This is a full-stack decentralized e-commerce platform built using **Solidity**,
 
 ## 📷 Screenshots
 
-## 📋 Wishlist Page Feature
+## 🏠 Home Page Overview (SELLER POV)
 
-Here is how the Wishlist page looks in the application:
-
-![Wishlist Page](https://github.com/eyomartin/Marketplace-DApp/blob/main/screenshots/WishlistPage.png?raw=true)
+![Home Page](https://github.com/eyomartin/Marketplace-DApp/blob/main/screenshots/HomePage.png?raw=true)
 
 
 ---
