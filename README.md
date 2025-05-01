@@ -43,6 +43,10 @@ This is a full-stack decentralized e-commerce platform built using **Solidity**,
 
 ![Create Product](https://github.com/eyomartin/Marketplace-DApp/blob/main/screenshots/AddProductPage.png?raw=true)
 
+## 🛒 Shopping Cart Page
+
+![Shopping Cart](https://github.com/eyomartin/Marketplace-DApp/blob/main/screenshots/ShoppingCartPage.png?raw=true)
+
 ---
 
 ## 📦 How to Run the Project Locally
