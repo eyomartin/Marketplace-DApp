@@ -35,7 +35,7 @@ This is a full-stack decentralized e-commerce platform built using **Solidity**,
 
 ## 📷 Screenshots
 
-(You can insert screenshots or demo GIFs here of the DApp UI, Cart page, Wishlist, Feedback system, etc.)
+https://github.com/eyomartin/Marketplace-DApp/blob/main/screenshots/WishlistPage.png?raw=true
 
 ---
 
