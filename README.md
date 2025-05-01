@@ -13,11 +13,11 @@ This is a full-stack decentralized e-commerce platform built using **Solidity**,
 - Dynamic price conversion from USD to ETH
 
 ### ✅ Newly Added Features
-- 🛒 **Shopping Cart System** with live item counter and multi-product checkout
-- ⭐ **Wishlist**: Save and remove favorite products from a separate page
-- 🔍 **Search Bar**: Live filtering of products by name on the Home page
-- 🌟 **5-Star Feedback System**: Buyers can rate products after receiving them
-- 💸 **Tip the Seller**: Send optional ETH-based tips after a successful purchase
+-  **Shopping Cart System** with live item counter and multi-product checkout
+-  **Wishlist**: Save and remove favorite products from a separate page
+-  **Search Bar**: Live filtering of products by name on the Home page
+-  **5-Star Feedback System**: Buyers can rate products after receiving them
+-  **Tip the Seller**: Send optional ETH-based tips after a successful purchase
 
 ---
 
