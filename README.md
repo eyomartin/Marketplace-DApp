@@ -35,10 +35,9 @@ This is a full-stack decentralized e-commerce platform built using **Solidity**,
 
 ## 📷 Screenshots
 
-## 🏠 Home Page Overview (SELLER POV)
+## 🏠 Home Page Overview (BUYER POV)
 
-![Home Page](https://github.com/eyomartin/Marketplace-DApp/blob/main/screenshots/HomePage.png?raw=true)
-
+![Home Page](https://github.com/eyomartin/Marketplace-DApp/blob/main/screenshots/HomePageBuyerPOV.png?raw=true)
 
 ---
 
